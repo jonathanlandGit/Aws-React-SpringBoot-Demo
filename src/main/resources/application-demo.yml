@@ -7,7 +7,7 @@ server:
 
 app:
   datasource:
-    jdbc-url: jdbc:postgresql://fullstackspringbootdb.crxsddpjmuma.us-east-1.rds.amazonaws.com/fullstackspringbootdemo
-    username: postgres
-    password: Kierkegaard777!
+    jdbc-url: jdbc:postgresql://<ebURL>/fullstackspringbootdemo
+    username: <yourusername>
+    password: <yourpassword>
     pool-size: 30
